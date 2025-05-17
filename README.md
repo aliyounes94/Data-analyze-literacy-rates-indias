@@ -1,5 +1,5 @@
 # Data-analyze-literacy-rates-indias
-# Data-analyze-literacy-rates-indias
+
 ## Project Overview
 This repository contains a comprehensive data analysis report conducted by Ali Younes Yousef . The report focuses on analyzing a dataset related to literacy rates across various dimensions, including time (years), geography (states and areas), and demographics (gender and age groups). The analysis aims to uncover trends, disparities, and insights that can inform educational policies and strategies.
 
